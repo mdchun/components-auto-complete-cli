@@ -9,4 +9,4 @@ node_modules
 # misc
 .DS_Store
 .env
-package-lock.js
+package-lock.json
