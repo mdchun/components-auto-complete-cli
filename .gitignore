@@ -1,0 +1,12 @@
+# FE ignore
+node_modules
+
+# debug ignore
+
+# IDE ignore
+.idea
+
+# misc
+.DS_Store
+.env
+package-lock.js

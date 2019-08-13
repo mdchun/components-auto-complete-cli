@@ -1,0 +1,20 @@
+{
+  "name": "components-auto-complete-cli",
+  "version": "1.0.0",
+  "description": "react components 自动完成",
+  "main": "index.js",
+  "bin": {
+    "rc-auto": "./bin/rc-auto"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mdc",
+  "license": "ISC",
+  "devDependencies": {
+    "ora": "^3.4.0"
+  },
+  "dependencies": {
+    "handlebars": "^4.1.2"
+  }
+}
