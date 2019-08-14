@@ -1,6 +1,6 @@
 {
   "name": "components-auto-complete-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "react components 自动完成",
   "main": "index.js",
   "bin": {
